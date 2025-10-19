@@ -133,7 +133,7 @@ export default function Shop() {
             <p className="text-muted-foreground mb-6 leading-relaxed">
               We love creating one-of-a-kind frames tailored to your vision. Share your ideas with us!
             </p>
-            <a href="https://instagram.com/@_soul_frames._" target="_blank" rel="noopener noreferrer">
+            <a href="https://instagram.com/_soul_frames._" target="_blank" rel="noopener noreferrer">
               <Button 
                 size="lg"
                 className="bg-accent hover:bg-accent/90 text-accent-foreground shadow-gold"
