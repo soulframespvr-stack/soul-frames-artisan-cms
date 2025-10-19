@@ -77,7 +77,7 @@ export default function Home() {
                   Explore Frames
                 </Button>
               </Link>
-              <a href="https://instagram.com/soulframes" target="_blank" rel="noopener noreferrer">
+              <a href="https://instagram.com/@_soul_frames._" target="_blank" rel="noopener noreferrer">
                 <Button 
                   size="lg" 
                   variant="outline"
@@ -151,7 +151,7 @@ export default function Home() {
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
               Let's create something beautiful together. DM us on Instagram to start your custom order.
             </p>
-            <a href="https://instagram.com/soulframes" target="_blank" rel="noopener noreferrer">
+            <a href="https://instagram.com/@_soul_frames._" target="_blank" rel="noopener noreferrer">
               <Button 
                 size="lg"
                 className="bg-accent hover:bg-accent/90 text-accent-foreground font-medium px-8 shadow-gold"
