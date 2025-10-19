@@ -106,7 +106,7 @@ export default function Gallery() {
               Share Your Soul Frames Story
             </h2>
             <p className="text-muted-foreground mb-6 leading-relaxed">
-              Tag us on Instagram @soulframes to be featured in our gallery!
+              Tag us on Instagram @_soul_frames._ to be featured in our gallery!
             </p>
           </motion.div>
         </div>
