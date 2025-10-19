@@ -10,20 +10,20 @@ export default function Contact() {
       icon: Instagram,
       title: "Instagram",
       description: "Best way to reach us",
-      link: "https://instagram.com/soulframes",
-      linkText: "@soulframes"
+      link: "https://instagram.com/_soulframes._",
+      linkText: "@_soulframes._"
     },
     {
       icon: Mail,
       title: "Email",
       description: "For general inquiries",
-      link: "mailto:hello@soulframes.com",
-      linkText: "hello@soulframes.com"
+      link: "mailto:soulframespvr@gmail.com",
+      linkText: "soulframespvr@gmail.com"
     },
     {
       icon: MapPin,
       title: "Location",
-      description: "Serving clients nationwide",
+      description: "Servicing Customers Nationwide",
       link: null,
       linkText: "India"
     },
@@ -118,7 +118,7 @@ export default function Contact() {
                 </CardDescription>
               </CardHeader>
               <CardContent>
-                <a href="https://instagram.com/soulframes" target="_blank" rel="noopener noreferrer">
+                <a href="https://instagram.com/_soulframes._" target="_blank" rel="noopener noreferrer">
                   <Button 
                     size="lg"
                     className="bg-accent hover:bg-accent/90 text-accent-foreground shadow-gold w-full sm:w-auto"
@@ -163,7 +163,7 @@ export default function Contact() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    Since each frame is custom-made, delivery typically takes 7-14 days depending on complexity
+                    Since each frame is custom-made, delivery typically takes 5-7 days depending on complexity
                     and your location.
                   </p>
                 </CardContent>
@@ -174,7 +174,7 @@ export default function Contact() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    Yes! We carefully package and ship all across India. International shipping is also available
+                    Yes! We carefully package and ship all across Kerala. International shipping is also available
                     on request.
                   </p>
                 </CardContent>
