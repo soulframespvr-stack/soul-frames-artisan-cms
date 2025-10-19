@@ -1,6 +1,13 @@
+# For production (after deploying to Netlify with Identity enabled)
 backend:
   name: git-gateway
   branch: main
+
+# For local development testing, uncomment the line below and comment out git-gateway above
+# backend:
+#   name: test-repo
+
+local_backend: true
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
