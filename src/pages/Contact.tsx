@@ -11,7 +11,7 @@ export default function Contact() {
       title: "Instagram",
       description: "Best way to reach us",
       link: "https://instagram.com/_soul_frames._",
-      linkText: "@_soulframes._"
+      linkText: "@_soul_frames._"
     },
     {
       icon: Mail,
