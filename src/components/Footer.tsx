@@ -59,7 +59,7 @@ export const Footer = () => {
             <h3 className="font-display font-semibold text-lg mb-4">Connect</h3>
             <div className="flex gap-4">
               <a
-                href="https://instagram.com/soulframes"
+                href="https://instagram.com/_soulframes._"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center hover:scale-110 transition-smooth shadow-gold"
@@ -67,7 +67,7 @@ export const Footer = () => {
                 <Instagram className="w-5 h-5 text-primary" />
               </a>
               <a
-                href="mailto:hello@soulframes.com"
+                href="mailto:soulframespvr@gmail.com"
                 className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center hover:scale-110 transition-smooth shadow-gold"
               >
                 <Mail className="w-5 h-5 text-primary" />
