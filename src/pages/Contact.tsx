@@ -118,7 +118,7 @@ export default function Contact() {
                 </CardDescription>
               </CardHeader>
               <CardContent>
-                <a href="https://instagram.com/@_soul_frames._" target="_blank" rel="noopener noreferrer">
+                <a href="https://instagram.com/_soul_frames._" target="_blank" rel="noopener noreferrer">
                   <Button 
                     size="lg"
                     className="bg-accent hover:bg-accent/90 text-accent-foreground shadow-gold w-full sm:w-auto"
@@ -174,7 +174,7 @@ export default function Contact() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    Yes! We carefully package and ship all across Kerala. International shipping is also available
+                    Yes! We carefully package and ship all across Kannur. International shipping is also available
                     on request.
                   </p>
                 </CardContent>
