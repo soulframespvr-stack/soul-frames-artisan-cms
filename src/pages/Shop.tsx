@@ -48,7 +48,8 @@ export default function Shop() {
   const handleOrderClick = (productTitle: string) => {
     const message = `Hi! I'm interested in ordering the ${productTitle}. Can you share more details?`;
     const encodedMessage = encodeURIComponent(message);
-    window.open(`https://instagram.com/direct/new/?text=${encodedMessage}`, '_blank');
+   window.open(`https://www.instagram.com/_soul_frames._?text=${encodedMessage}`, "_blank");
+
   };
 
   return (
