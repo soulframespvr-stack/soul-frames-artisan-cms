@@ -41,7 +41,7 @@ export default function Shop() {
       title: "Customized Calendars",
       description: "Your Year,Your Memories,Your Style.",
       price: "From ₹299",
-      image: "/image/calendar.jpg"
+      image: "/image/calendar.jpeg"
     }
   ]);
 
