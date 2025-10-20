@@ -31,10 +31,10 @@ export default function Shop() {
     },
     {
       id: "3",
-      title: "Gift Hambers",
+      title: "Gift Hampers",
       description: "Precious gifts for your loved ones to make their moments memorable.",
       price: "From ₹399",
-      image: "public/image/hamber.jpg"
+      image: "public/image/hamper.jpg"
     },
     {
       id: "4",
