@@ -20,28 +20,28 @@ export default function Shop() {
       title: "Classic Elegance Frame",
       description: "Timeless wooden frame with gold accents. Perfect for wedding photos and milestone moments.",
       price: "From ₹149",
-      image: "public/image/frame1.jpg"
+      image: "src/public/image/frame1.jpg"
     },
     {
       id: "2",
       title: "Polaroids",
       description: "Clean lines and contemporary design. Ideal for modern interiors and artistic photography.",
       price: "From ₹149",
-      image: "public/image/polaroid.jpg"
+      image: "src/public/image/polaroid.jpg"
     },
     {
       id: "3",
       title: "Gift Hampers",
       description: "Precious gifts for your loved ones to make their moments memorable.",
       price: "From ₹399",
-      image: "public/image/hamper.jpg"
+      image: "src/public/image/hamper.jpg"
     },
     {
       id: "4",
       title: "Customized Calendars",
       description: "Your Year,Your Memories,Your Style.",
       price: "From ₹299",
-      image: "public/image/calendar.jpg"
+      image: "src/public/image/calendar.jpg"
     }
   ]);
 
