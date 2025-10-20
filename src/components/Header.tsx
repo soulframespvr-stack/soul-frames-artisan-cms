@@ -19,14 +19,19 @@ export const Header = () => {
     <header className="sticky top-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border shadow-soft">
       <nav className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          {/* Logo */}
-          <Link to="/" className="flex items-center gap-2 group">
-            <motion.img
-            whileHover={{ scale: 1.05 }}
-            src="/image/favicon.png"   // 👈 change this path if your logo is elsewhere
-            alt="Soul Frames Logo"
-            className="w-10 h-10 rounded-lg shadow-gold"
-            />
+         {/* Logo */}
+<Link to="/" className="flex items-center gap-2 group">
+  <motion.img
+    whileHover={{ scale: 1.05 }}
+    src={`${import.meta.env.BASE_URL}image/favicon.png`}  // ✅ works everywhere
+    alt="Soul Frames Logo"
+    className="w-10 h-10 rounded-lg shadow-gold"
+  />
+  <span className="text-2xl font-display font-semibold text-foreground">
+    Soul Frames
+  </span>
+</Link>
+
 
             <span className="text-2xl font-display font-semibold text-foreground">
               Soul Frames
