@@ -25,7 +25,7 @@ export default function Contact() {
       title: "Location",
       description: "Servicing Customers Nationwide",
       link: null,
-      linkText: "India"
+      linkText: "Payyavoor,Kannur"
     },
     {
       icon: Clock,
