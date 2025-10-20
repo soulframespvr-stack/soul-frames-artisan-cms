@@ -23,7 +23,7 @@ export const Header = () => {
           <Link to="/" className="flex items-center gap-2 group">
             <motion.img
             whileHover={{ scale: 1.05 }}
-            src="src/public/image/favicon.png"   // 👈 change this path if your logo is elsewhere
+            src="/image/favicon.png"   // 👈 change this path if your logo is elsewhere
             alt="Soul Frames Logo"
             className="w-10 h-10 rounded-lg shadow-gold"
             />
