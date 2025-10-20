@@ -19,29 +19,29 @@ export default function Shop() {
       id: "1",
       title: "Classic Elegance Frame",
       description: "Timeless wooden frame with gold accents. Perfect for wedding photos and milestone moments.",
-      price: "From ₹2,499",
-      image: "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?q=80&w=800"
+      price: "From ₹149",
+      image: "public/image/frame1.jpg"
     },
     {
       id: "2",
-      title: "Modern Minimalist Frame",
+      title: "Poloroids",
       description: "Clean lines and contemporary design. Ideal for modern interiors and artistic photography.",
-      price: "From ₹1,999",
-      image: "https://images.unsplash.com/photo-1582139329536-e7284fece509?q=80&w=800"
+      price: "From ₹149",
+      image: "public/image/poloroid.jpg"
     },
     {
       id: "3",
-      title: "Vintage Romance Frame",
-      description: "Ornate detailing with antique finish. Beautiful for family heirlooms and vintage aesthetics.",
-      price: "From ₹3,299",
-      image: "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?q=80&w=800"
+      title: "Gift Hambers",
+      description: "Precious gifts for your loved ones to make their moments memorable.",
+      price: "From ₹399",
+      image: "public/image/hamber.jpg"
     },
     {
       id: "4",
-      title: "Rustic Charm Frame",
-      description: "Reclaimed wood with natural texture. Perfect for nature photography and bohemian spaces.",
-      price: "From ₹2,799",
-      image: "https://images.unsplash.com/photo-1582139329536-e7284fece509?q=80&w=800"
+      title: "Customized Calenders",
+      description: "Your Year,Your Memories,Your Style.",
+      price: "From ₹299",
+      image: "public/image/calender.jpg"
     }
   ]);
 
