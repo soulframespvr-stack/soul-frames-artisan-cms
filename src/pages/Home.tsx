@@ -74,7 +74,7 @@ export default function Home() {
                   size="lg" 
                   className="bg-accent hover:bg-accent/90 text-accent-foreground font-medium px-8 shadow-gold"
                 >
-                  Explore Frames
+                  Explore Frames and Gifts
                 </Button>
               </Link>
               <a href="https://instagram.com/_soul_frames._" target="_blank" rel="noopener noreferrer">
