@@ -23,7 +23,7 @@ export const Header = () => {
           <Link to="/" className="flex items-center gap-2 group">
             <motion.img
               whileHover={{ scale: 1.05 }}
-              src={`${import.meta.env.BASE_URL}image/favicon.png`} // ✅ works on Netlify + local
+              src={`${import.meta.env.BASE_URL}image/favicon-32x32.png`} // ✅ works on Netlify + local
               alt="Soul Frames Logo"
               className="w-10 h-10 rounded-lg shadow-gold"
             />
