@@ -24,10 +24,10 @@ export default function Shop() {
     },
     {
       id: "2",
-      title: "Poloroids",
+      title: "Polaroids",
       description: "Clean lines and contemporary design. Ideal for modern interiors and artistic photography.",
       price: "From ₹149",
-      image: "public/image/poloroid.jpg"
+      image: "public/image/polaroid.jpg"
     },
     {
       id: "3",
