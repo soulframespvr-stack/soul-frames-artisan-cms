@@ -59,7 +59,7 @@ export const Footer = () => {
             <h3 className="font-display font-semibold text-lg mb-4">Connect</h3>
             <div className="flex gap-4">
               <a
-                href="https://instagram.com/_soulframes._"
+                href="https://instagram.com/_soul_frames._"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center hover:scale-110 transition-smooth shadow-gold"
